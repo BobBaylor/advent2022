@@ -1,5 +1,5 @@
 # advent2022
-playing along
+playing along at https://adventofcode.com/
 
 Using a lot of f-strings
 
